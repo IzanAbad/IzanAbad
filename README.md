@@ -1,7 +1,18 @@
 ### Hi there 👋
 
-About me
+About me:
+
 👨🏻‍💻 Software Developer.
+🎮I like to play videogames.
+🎬I like watching movies.
 
 Languages and Tools:
-csharp css3 docker git html5 illustrator java javascript laravel linux mysql oracle photoshop php postgresql selenium unity
+- Java
+- JavaScript
+- SQL
+- VB.net
+- C#
+- HTML/CSS
+- PHP
+- Laravel
+- JQUERY
